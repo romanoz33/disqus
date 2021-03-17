@@ -5,6 +5,8 @@ import { createGlobalStyle } from "styled-components";
 const pageStyles = {
     "123": {},
     "404": {},
+    "3333333": {},
+    "12312312": {},
     "index": {}
 };
 
