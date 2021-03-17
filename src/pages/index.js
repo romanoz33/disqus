@@ -28,7 +28,7 @@ export default (() => {
 			</Button>
 		</Section>
 		<Box>
-			<Components.Discus typeCommentProp="Standart" showParrent={false} />
+			<Components.Discus typeCommentProp="Some comment" showParrent />
 		</Box>
 		<Link
 			font={"--capture"}
